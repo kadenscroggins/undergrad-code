@@ -4,7 +4,7 @@
 2. CS-2133 - Computer Science II
     * [Assignment 5](https://github.com/kadenscroggins/undergrad-code/tree/main/CS-2133-20918/assn5) - Minesweeper, written in Java - the GUI was programmed by hand without any IDE tools.
 3. IS-3003 - System Development Using RAD Tools
-    * [Assignment 3](https://github.com/kadenscroggins/undergrad-code/tree/main/IS-3003-30463/assignment3) - "Health Club Calculator" used for calculating membership fees for a country club. This is the 3rd of 12 assignments, but I think it was the best real-world example of a simple JS tool we made.
+    * [Assignment 3](https://github.com/kadenscroggins/undergrad-code/tree/main/IS-3003-30463/assignment3) - "Health Club Calculator" used for calculating membership fees for a country club. This is the 3rd of 12 assignments, but I think it was the best real-world example of a simple JS tool we made. We also went over plenty of PHP and some CSS.
 4. CS-3173 - Basic Computer Architecture
     * All of these assignments were pretty cool, and explored different low-level concepts by simulating them in Java. [Assignment 8](https://github.com/kadenscroggins/undergrad-code/tree/main/CS-3173-20256/assignment8) was a State Machine, and [Assignment 10](https://github.com/kadenscroggins/undergrad-code/tree/main/CS-3173-20256/assignment10) was dealing with processor registers.
 5. CS-3033 - Object Oriented Programming
@@ -20,4 +20,6 @@
 10. CS-4103 - Advanced Java
     * I enjoyed this class a lot. We got to work with streams, lambdas, collectors, and some other higher level topics in Java that I was looking forward to learning when I went into the course. [Assignment 6](https://github.com/kadenscroggins/undergrad-code/tree/main/CS-4103-23401/Assignment%206) is a simple Lambda/Stream/Collector example, and the [Final Exam](https://github.com/kadenscroggins/undergrad-code/tree/main/CS-4103-23401/Final) had us working with Java database drivers.
 11. CS-4143 - Web Applications
-13. CS-4233 - Professional Development in Computer Science
+    * [Assignment 3](https://github.com/kadenscroggins/undergrad-code/tree/main/CS-4143-23402/Assignment%203) was a basic mock business website that has a few different pages and some CSS styling. Assignment 4 is a Node.js website connected to MongoDB, but it was a heavily guided exercise so I'm hesitant to highlight it.
+12. CS-4233 - Professional Development in Computer Science
+    * This was my capstone class. It's an inventory tracker for Tabletop RPG games. HTML set out the framework of the site, CSS styled it, and most of the functionality came from vanilla JS, with a little bit of Ajax for some tricky functions. Files could be imported/exported in JSON format, and you could save to the web server I was demoing it on at the time by pressing a button that would call PHP code to save it as a json file in the data folder. I would have used a database to store data, but I wanted to keep it simple and lightweight so that it would be more responsive and easier to use. I would recommend checking out my [scripts.js](https://github.com/kadenscroggins/undergrad-code/blob/main/CS-4233-23410/scripts.js) file, as that's where most of my effort went.
