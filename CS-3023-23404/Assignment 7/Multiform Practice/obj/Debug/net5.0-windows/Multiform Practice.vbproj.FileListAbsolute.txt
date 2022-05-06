@@ -1,0 +1,19 @@
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\bin\Debug\net5.0-windows\Multiform Practice.exe
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\bin\Debug\net5.0-windows\Multiform Practice.deps.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\bin\Debug\net5.0-windows\Multiform Practice.runtimeconfig.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\bin\Debug\net5.0-windows\Multiform Practice.runtimeconfig.dev.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\bin\Debug\net5.0-windows\Multiform Practice.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\bin\Debug\net5.0-windows\ref\Multiform Practice.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\bin\Debug\net5.0-windows\Multiform Practice.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform Practice.vbproj.AssemblyReference.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform_Practice.MainForm.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform_Practice.MessageForm.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform Practice.vbproj.GenerateResource.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform Practice.AssemblyInfoInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform Practice.AssemblyInfo.vb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform Practice.vbproj.CoreCompileInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform Practice.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\ref\Multiform Practice.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform Practice.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Multiform Practice\obj\Debug\net5.0-windows\Multiform Practice.genruntimeconfig.cache

@@ -1,0 +1,92 @@
+[
+	{
+		"Team 1":"Florida Mayhem",
+		"Team 2":"Los Angeles Valiant",
+		"Team 1 Score":2,
+		"Team 2 Score":3
+	},
+	{
+		"Team 1":"Philadelphia Fusion",
+		"Team 2":"Los Angeles Gladiators",
+		"Team 1 Score":3,
+		"Team 2 Score":0
+	},
+	{
+		"Team 1":"Hangzhou Spark",
+		"Team 2":"Seoul Dynasty",
+		"Team 1 Score":0,
+		"Team 2 Score":3
+	},
+	{
+		"Team 1":"New York Excelsior",
+		"Team 2":"Chengdu Hunters",
+		"Team 1 Score":3,
+		"Team 2 Score":2
+	},
+	{
+		"Team 1":"Dallas Fuel",
+		"Team 2":"Washington Justice",
+		"Team 1 Score":0,
+		"Team 2 Score":3
+	},
+	{
+		"Team 1":"Atlanta Reign",
+		"Team 2":"Boston Uprising",
+		"Team 1 Score":3,
+		"Team 2 Score":1
+	},
+	{
+		"Team 1":"Los Angeles Gladiators",
+		"Team 2":"Toronto Defiant",
+		"Team 1 Score":3,
+		"Team 2 Score":2
+	},
+	{
+		"Team 1":"Chengdu Hunters",
+		"Team 2":"London Spitfire",
+		"Team 1 Score":3,
+		"Team 2 Score":1
+	},
+	{
+		"Team 1":"Vancouver Titans",
+		"Team 2":"Washington Justice",
+		"Team 1 Score":0,
+		"Team 2 Score":3
+	},
+	{
+		"Team 1":"Houston Outlaws",
+		"Team 2":"Boston Uprising",
+		"Team 1 Score":1,
+		"Team 2 Score":3
+	},
+	{
+		"Team 1":"Los Angeles Valiant",
+		"Team 2":"Los Angeles Gladiators",
+		"Team 1 Score":2,
+		"Team 2 Score":3
+	},
+	{
+		"Team 1":"San Francisco Shock",
+		"Team 2":"Atlanta Reign",
+		"Team 1 Score":3,
+		"Team 2 Score":2
+	},
+	{
+		"Team 1":"Dallas Fuel",
+		"Team 2":"Paris Eternal",
+		"Team 1 Score":1,
+		"Team 2 Score":3
+	},
+	{
+		"Team 1":"Seoul Dynasty",
+		"Team 2":"London Spitfire",
+		"Team 1 Score":3,
+		"Team 2 Score":2
+	},
+	{
+		"Team 1":"Los Angeles Valiant",
+		"Team 2":"Vancouver Titans",
+		"Team 1 Score":3,
+		"Team 2 Score":0
+	},
+]

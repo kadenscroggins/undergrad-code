@@ -1,0 +1,12 @@
+a = 3 5 + 1 -
+bee = 7.0 a *
+var
+bee sqrt
+3 3 3 +
+bee
+a = 4
+d = 3.14159265 cos
+a 3 /
+1 2 3 4 + + -
+clear
+var

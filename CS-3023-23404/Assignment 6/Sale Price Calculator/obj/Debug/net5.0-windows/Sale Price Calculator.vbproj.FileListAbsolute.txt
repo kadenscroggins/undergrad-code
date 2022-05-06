@@ -1,0 +1,18 @@
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\bin\Debug\net5.0-windows\Sale Price Calculator.exe
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\bin\Debug\net5.0-windows\Sale Price Calculator.deps.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\bin\Debug\net5.0-windows\Sale Price Calculator.runtimeconfig.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\bin\Debug\net5.0-windows\Sale Price Calculator.runtimeconfig.dev.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\bin\Debug\net5.0-windows\Sale Price Calculator.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\bin\Debug\net5.0-windows\ref\Sale Price Calculator.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\bin\Debug\net5.0-windows\Sale Price Calculator.pdb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\Sale Price Calculator.vbproj.AssemblyReference.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\Sale_Price_Calculator.Form1.resources
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\Sale Price Calculator.vbproj.GenerateResource.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\Sale Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\Sale Price Calculator.AssemblyInfoInputs.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\Sale Price Calculator.AssemblyInfo.vb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\Sale Price Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\Sale Price Calculator.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\ref\Sale Price Calculator.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\Sale Price Calculator.pdb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 6\Sale Price Calculator\obj\Debug\net5.0-windows\Sale Price Calculator.genruntimeconfig.cache

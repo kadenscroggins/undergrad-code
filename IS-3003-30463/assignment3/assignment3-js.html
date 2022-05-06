@@ -1,0 +1,111 @@
+<!--
+	IS-3003-30463
+	Assignment 3
+	Kaden Scroggins
+-->
+<html>
+<head>
+<title>Assignment 3</title>
+<script>
+function calculate(){
+  var totalCost = "";
+
+  if (form1.membership[0].checked)
+    totalCost = 80;
+  else if (form1.membership[1].checked)
+    totalCost = 100;
+  else if (form1.membership[2].checked)
+    totalCost = 120;
+  else
+    totalCost = 0;
+
+  if (form1.tennis.checked == true)
+    totalCost += 15;
+  if (form1.racquetball.checked == true)
+    totalCost += 20;
+  if (form1.golf.checked == true)
+    totalCost += 25;
+
+  var additional = document.forms["form1"].additional;
+  for (var i=0;i<additional.length;i++) {
+    if (additional[i].checked) {
+      totalCost += parseFloat(additional[i].value);
+    }
+  }
+
+  var tax = 0;
+  tax = parseFloat(document.form1.tax.value);
+  totalCost += (totalCost * tax);
+  totalCost = totalCost.toFixed(2);
+  totalCost = "$" + totalCost;
+
+  form1.total.value = totalCost;
+}
+
+function clearValues(){
+  var radiobuttons = document.getElementsByName("membership");
+  for(var i=0;i<radiobuttons.length;i++) {
+    radiobuttons[i].checked = false;
+  }
+  var checkboxes = document.querySelectorAll("input[type='checkbox']");
+  for(var i=0;i<checkboxes.length;i++) {
+    checkboxes[i].checked = false;
+  }
+  
+  form1.tax.value = "0.00";
+  form1.total.value = "$0.00";
+}
+</script>
+</head>
+
+<body>
+<form name="form1" id="form1">
+<h2> Health Club Calculator</h2>
+<p>Kaden Scroggins</p>
+
+<div style="float:left; width:120px">
+  <dl>
+    <dt> Membership </dt>
+    <dt><input type="radio" onchange="calculate()" name="membership" value="Basic"> Basic </dt>
+    <dt><input type="radio" onchange="calculate()" name="membership" value="Gold"> Gold </dt>
+    <dt><input type="radio" onchange="calculate()" name="membership" value="Gold Plus"> Gold Plus </dt>
+  </dl>
+</div>
+
+<div style="float:left; width:160px">
+  <dl>
+    <dt>Additional Charges (1)</dt>
+    <dt><input type="checkbox" onchange="calculate()" name="tennis"> Tennis </dt>
+    <dt><input type="checkbox" onchange="calculate()" name="racquetball"> Racquetball </dt>
+    <dt><input type="checkbox" onchange="calculate()" name="golf"> Golf </dt>
+  </dl>
+</div>
+
+<div style="float:left; width:160px">
+  <dl>
+    <dt>Additional Charges (2)</dt>
+    <dt><input type="checkbox" onchange="calculate()" name="additional" value="100"> Child Care </dt>
+    <dt><input type="checkbox" onchange="calculate()" name="additional" value="120"> Personal Trainer </dt>
+    <dt><input type="checkbox" onchange="calculate()" name="additional" value="20"> Swimming Pool </dt>
+  </dl>
+</div>
+
+<div style="clear:both">&nbsp;</div>
+
+<div style="float:left; width:120px">
+  <dl>
+    <dt><input type="button" value="Calculate Total" onclick="calculate()"></dt>
+    <dt><input type="button" value="Clear" onclick="clearValues()"></dt>
+  </dl>
+</div>
+
+<div style="float:left; width:160px">
+  <dl>
+    <dt>Tax: &nbsp;&nbsp;<input type="text" onchange="calculate()" name="tax" value="0.00" size="10"></dt>
+    <dt>Total: <input type="text" readonly="true" name="total" value="$0.00" size="10"></dt>
+  </dl>
+</div>
+
+</form>
+</body>
+</html>

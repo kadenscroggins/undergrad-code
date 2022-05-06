@@ -1,0 +1,18 @@
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\bin\Debug\net5.0-windows\Date String.exe
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\bin\Debug\net5.0-windows\Date String.deps.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\bin\Debug\net5.0-windows\Date String.runtimeconfig.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\bin\Debug\net5.0-windows\Date String.runtimeconfig.dev.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\bin\Debug\net5.0-windows\Date String.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\bin\Debug\net5.0-windows\ref\Date String.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\bin\Debug\net5.0-windows\Date String.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\Date String.vbproj.AssemblyReference.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\Date_String.Form1.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\Date String.vbproj.GenerateResource.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\Date String.GeneratedMSBuildEditorConfig.editorconfig
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\Date String.AssemblyInfoInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\Date String.AssemblyInfo.vb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\Date String.vbproj.CoreCompileInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\Date String.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\ref\Date String.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\Date String.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 2\Date String\obj\Debug\net5.0-windows\Date String.genruntimeconfig.cache

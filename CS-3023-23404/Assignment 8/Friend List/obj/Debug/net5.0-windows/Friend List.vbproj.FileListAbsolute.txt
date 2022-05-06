@@ -1,0 +1,18 @@
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\bin\Debug\net5.0-windows\Friend List.exe
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\bin\Debug\net5.0-windows\Friend List.deps.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\bin\Debug\net5.0-windows\Friend List.runtimeconfig.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\bin\Debug\net5.0-windows\Friend List.runtimeconfig.dev.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\bin\Debug\net5.0-windows\Friend List.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\bin\Debug\net5.0-windows\ref\Friend List.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\bin\Debug\net5.0-windows\Friend List.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\Friend List.vbproj.AssemblyReference.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\Friend_List.Form1.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\Friend List.vbproj.GenerateResource.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\Friend List.GeneratedMSBuildEditorConfig.editorconfig
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\Friend List.AssemblyInfoInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\Friend List.AssemblyInfo.vb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\Friend List.vbproj.CoreCompileInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\Friend List.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\ref\Friend List.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\Friend List.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Friend List\obj\Debug\net5.0-windows\Friend List.genruntimeconfig.cache

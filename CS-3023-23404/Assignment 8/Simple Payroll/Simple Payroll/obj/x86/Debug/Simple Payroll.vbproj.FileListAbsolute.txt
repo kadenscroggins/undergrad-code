@@ -1,0 +1,11 @@
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\bin\Debug\Simple Payroll.exe
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\bin\Debug\Simple Payroll.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\bin\Debug\Simple Payroll.xml
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.vbproj.AssemblyReference.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple_Payroll.Form1.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple_Payroll.Resources.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.vbproj.GenerateResource.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.vbproj.CoreCompileInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.exe
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.xml
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.pdb

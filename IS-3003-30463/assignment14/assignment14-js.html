@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Vowel Counter </title>
+<script>
+
+function countVowels() {
+	var vowels = 0;
+	var input = document.form1.input.value.toLowerCase();
+
+	for (var i=0;i<input.length;i++) {
+		if (input[i]=="a") {
+			vowels++;
+		}
+		else if (input[i]=="e") {
+			vowels++;
+		}
+		else if (input[i]=="i") {
+			vowels++;
+		}
+		else if (input[i]=="o") {
+			vowels++;
+		}
+		else if (input[i]=="u") {
+			vowels++;
+		}
+	}
+
+
+
+
+	document.form1.output.value = "The input contains " + vowels + " vowel(s).";
+}
+
+</script>
+</head>
+
+<body style="padding:12px;">
+<h2> Vowel Counter </h2>
+<p> Kaden Scroggins </p>
+
+<form name="form1">
+<textarea name="input" rows="10" cols="50"></textarea><br><br>
+<input type="button" onclick="countVowels()" value="Count Vowels"><br><br>
+Results: <br>
+<textarea name="output" rows="5" cols="50"></textarea>

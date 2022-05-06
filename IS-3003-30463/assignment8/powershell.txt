@@ -1,0 +1,27 @@
+$search = 'Your Name'
+$replace_with = 'Kaden Scroggins'
+$base_dir = 'E:\nyny8\Downloads\assignment8\website'
+$text_file_ext = 'html'
+
+Get-ChildItem $base_dir -Recurse -Include  "*.$text_file_ext" |
+	ForEach-Object { (Get-Content $_.FullName) |
+	ForEach-Object {$_ -replace $search, $replace_with} |
+	Set-Content $_.FullName }
+
+
+
+$search = 'Kaden Scroggins'
+$replace_with = 'Your Name'
+$base_dir = 'E:\nyny8\Downloads\assignment8\website'
+$text_file_ext = 'html'
+
+Get-ChildItem $base_dir -Recurse -Include  "*.$text_file_ext" |
+	ForEach-Object { (Get-Content $_.FullName) |
+	ForEach-Object {$_ -replace $search, $replace_with} |
+	Set-Content $_.FullName	}
+
+
+
+get-childitem *.jpg | foreach { rename-item $_ $_.Name.Replace("bowl", "wooden-bowl") }
+
+get-childitem *.jpg | foreach { rename-item $_ $_.Name.Replace("wooden-bowl", "bowl") }

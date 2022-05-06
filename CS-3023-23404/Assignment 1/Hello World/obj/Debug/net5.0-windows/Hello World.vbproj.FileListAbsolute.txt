@@ -1,0 +1,18 @@
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\bin\Debug\net5.0-windows\Hello World.exe
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\bin\Debug\net5.0-windows\Hello World.deps.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\bin\Debug\net5.0-windows\Hello World.runtimeconfig.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\bin\Debug\net5.0-windows\Hello World.runtimeconfig.dev.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\bin\Debug\net5.0-windows\Hello World.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\bin\Debug\net5.0-windows\ref\Hello World.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\bin\Debug\net5.0-windows\Hello World.pdb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\Hello World.vbproj.AssemblyReference.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\Hello_World.Form1.resources
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\Hello World.vbproj.GenerateResource.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\Hello World.AssemblyInfoInputs.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\Hello World.AssemblyInfo.vb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\Hello World.vbproj.CoreCompileInputs.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\Hello World.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\ref\Hello World.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\Hello World.pdb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Hello World\obj\Debug\net5.0-windows\Hello World.genruntimeconfig.cache

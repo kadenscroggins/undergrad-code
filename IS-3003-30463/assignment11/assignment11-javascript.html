@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>String Manipulation: JavaScript</title>
+	<script>
+		function extractName() {
+			var completeName;
+			var tempStr;
+			var nameBits = [];
+
+			completeName = document.form1.completeName.value;
+			nameBits = completeName.split(" ");
+			
+			if (nameBits.length == 2) {
+				tempStr = "First name: " + nameBits[0] + "\n";
+				tempStr += "It contains " + nameBits[0].length + " characters.\n\n";
+				tempStr += "Last name: " + nameBits[1] + "\n";
+				tempStr += "It contains " + nameBits[1].length + " characters.\n\n";
+			}
+			else if (nameBits.length == 3) {
+				tempStr = "First name: " + nameBits[0] + "\n";
+				tempStr += "It contains " + nameBits[0].length + " characters.\n\n";
+				tempStr += "Middle name: " + nameBits[1] + "\n";
+				tempStr += "It contains " + nameBits[1].length + " characters.\n\n";
+				tempStr += "Last name: " + nameBits[2] + "\n";
+				tempStr += "It contains " + nameBits[2].length + " characters.\n\n";
+			}
+			else {
+				tempStr = "Invalid number of names!";
+			}
+
+			document.form1.results.value = tempStr;
+		}
+	</script>
+</head>
+<body style="padding:30px;">
+	<h2>String Manipulation: JavaScript</h2>
+	<p>Kaden Scroggins</p>
+	<form name="form1">
+		<p>Name: <input type="text" name="completeName" size="30"></p>
+		<p><input type="button" value="Extract Name" onclick="extractName()"></p>
+		<p><textarea name="results" rows="8" cols="50"></textarea></p>
+	</form>
+</body>
+</html>

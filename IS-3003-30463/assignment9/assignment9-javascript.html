@@ -1,0 +1,70 @@
+<html>
+<head>
+<title> Javascript: For Loop </title>
+<script>
+
+function displayResults () {
+	var tempStr;
+	var maxValue;
+	var index;
+
+	if (isNaN (maxValue = parseFloat (document.form1.maxValue.value))) {
+		alert ("Please enter a maximum value.");
+	}
+	else {
+		tempStr = "";
+		
+		tempStr += "Increasing Order: \n";
+		for (var i=0; i<maxValue; i++) {
+			tempStr += (i+1) + " ";
+		}
+
+		tempStr += "\n\nDecreasing Order:\n";
+		for (var i=maxValue; i>0; i--) {
+			tempStr += i + " ";
+		}
+
+		tempStr += "\n\nEven Numbers:\n";
+		for (var i=0; i<(maxValue-1); i+=2) {
+			tempStr += (i+2) + " ";
+		}
+
+		tempStr += "\n\nSquare:\n";
+		for (var i=0; i<maxValue; i++) {
+			for (var k=0; k<maxValue; k++) {
+				tempStr += "* ";
+			}
+			tempStr += "\n";
+		}
+
+		tempStr += "\n\nMultiplication Table:\n";
+		for (var i=1; i<(maxValue+1); i++) {
+			tempStr += i + " * " + i + " = " + (i*i) + "\n";
+		}
+
+		document.form1.results.value = tempStr;
+	}
+
+}
+
+</script>
+</head>
+
+<body style="padding:0 0 0 30px;">
+
+<h2> Javascript: For Loop </h2>
+<p> Kaden Scroggins </p>
+
+<form name="form1">
+<input type="text" name="maxValue" />
+<input type="button" onclick="displayResults()" value="Display Results" /> <br />
+<br />
+<textarea name="results" rows="25" cols="50"></textarea>
+
+</form>
+
+
+</body>
+
+</form>
+</html>

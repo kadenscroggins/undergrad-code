@@ -1,0 +1,40 @@
+<html>
+<head>
+<title> Incrementing Buttons - jQuery </title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<script>
+
+$(document).ready(function(){
+  $("#increment").click(function(){
+    $("#number1").val(parseInt($("#number1").val(), 10)+1);
+  });
+  $("#decrement").click(function(){
+    $("#number2").val(parseInt($("#number2").val(), 10)-1);
+  });
+  $("#swap").click(function(){
+    var temp = $("#number2").val();
+    $("#number2").val($("#number1").val());
+    $("#number1").val(temp);
+  });
+});
+
+</script>
+
+</head>
+
+<body style="padding:30px;">
+
+<p><h2> Incrementing Buttons - jQuery </h2></p>
+
+<button type="button" id="increment">Increment Number</button>
+<input type="text" id="number1" value="0">
+<br><br>
+<button type="button" id="decrement">Decrement Number</button>
+<input type="text" id="number2" value="0">
+<br><br>
+<button type="button" id="swap">Swap Numbers</button>
+
+</body>
+</html>

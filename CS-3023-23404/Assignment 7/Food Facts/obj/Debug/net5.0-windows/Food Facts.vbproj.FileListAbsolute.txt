@@ -1,0 +1,19 @@
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\bin\Debug\net5.0-windows\Food Facts.exe
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\bin\Debug\net5.0-windows\Food Facts.deps.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\bin\Debug\net5.0-windows\Food Facts.runtimeconfig.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\bin\Debug\net5.0-windows\Food Facts.runtimeconfig.dev.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\bin\Debug\net5.0-windows\Food Facts.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\bin\Debug\net5.0-windows\ref\Food Facts.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\bin\Debug\net5.0-windows\Food Facts.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food Facts.vbproj.AssemblyReference.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food Facts.vbproj.GenerateResource.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food Facts.GeneratedMSBuildEditorConfig.editorconfig
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food Facts.AssemblyInfoInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food Facts.AssemblyInfo.vb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food Facts.vbproj.CoreCompileInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food Facts.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\ref\Food Facts.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food Facts.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food Facts.genruntimeconfig.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food_Facts.NutritionForm.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 7\Food Facts\obj\Debug\net5.0-windows\Food_Facts.Form1.resources

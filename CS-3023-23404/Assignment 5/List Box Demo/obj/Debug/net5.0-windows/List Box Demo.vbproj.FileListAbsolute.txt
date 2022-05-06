@@ -1,0 +1,18 @@
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\List Box Demo.vbproj.AssemblyReference.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\List_Box_Demo.Form1.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\List Box Demo.vbproj.GenerateResource.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\List Box Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\List Box Demo.AssemblyInfoInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\List Box Demo.AssemblyInfo.vb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\List Box Demo.vbproj.CoreCompileInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\bin\Debug\net5.0-windows\List Box Demo.exe
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\bin\Debug\net5.0-windows\List Box Demo.deps.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\bin\Debug\net5.0-windows\List Box Demo.runtimeconfig.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\bin\Debug\net5.0-windows\List Box Demo.runtimeconfig.dev.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\bin\Debug\net5.0-windows\List Box Demo.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\bin\Debug\net5.0-windows\ref\List Box Demo.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\bin\Debug\net5.0-windows\List Box Demo.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\List Box Demo.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\ref\List Box Demo.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\List Box Demo.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\List Box Demo\obj\Debug\net5.0-windows\List Box Demo.genruntimeconfig.cache

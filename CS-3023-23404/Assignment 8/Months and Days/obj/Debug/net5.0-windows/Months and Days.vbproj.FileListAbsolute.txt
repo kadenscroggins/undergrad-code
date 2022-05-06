@@ -1,0 +1,18 @@
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\bin\Debug\net5.0-windows\Months and Days.exe
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\bin\Debug\net5.0-windows\Months and Days.deps.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\bin\Debug\net5.0-windows\Months and Days.runtimeconfig.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\bin\Debug\net5.0-windows\Months and Days.runtimeconfig.dev.json
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\bin\Debug\net5.0-windows\Months and Days.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\bin\Debug\net5.0-windows\ref\Months and Days.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\bin\Debug\net5.0-windows\Months and Days.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\Months and Days.vbproj.AssemblyReference.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\Months_and_Days.Form1.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\Months and Days.vbproj.GenerateResource.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\Months and Days.GeneratedMSBuildEditorConfig.editorconfig
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\Months and Days.AssemblyInfoInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\Months and Days.AssemblyInfo.vb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\Months and Days.vbproj.CoreCompileInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\Months and Days.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\ref\Months and Days.dll
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\Months and Days.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 8\Months and Days\obj\Debug\net5.0-windows\Months and Days.genruntimeconfig.cache

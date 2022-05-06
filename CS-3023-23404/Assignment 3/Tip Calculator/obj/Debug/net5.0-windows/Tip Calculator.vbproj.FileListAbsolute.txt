@@ -1,0 +1,18 @@
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\bin\Debug\net5.0-windows\Tip Calculator.exe
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\bin\Debug\net5.0-windows\Tip Calculator.deps.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\bin\Debug\net5.0-windows\Tip Calculator.runtimeconfig.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\bin\Debug\net5.0-windows\Tip Calculator.runtimeconfig.dev.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\bin\Debug\net5.0-windows\Tip Calculator.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\bin\Debug\net5.0-windows\ref\Tip Calculator.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\bin\Debug\net5.0-windows\Tip Calculator.pdb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\Tip Calculator.vbproj.AssemblyReference.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\Tip_Calculator.Form1.resources
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\Tip Calculator.vbproj.GenerateResource.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\Tip Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\Tip Calculator.AssemblyInfoInputs.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\Tip Calculator.AssemblyInfo.vb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\Tip Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\Tip Calculator.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\ref\Tip Calculator.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\Tip Calculator.pdb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 3\Tip Calculator\obj\Debug\net5.0-windows\Tip Calculator.genruntimeconfig.cache

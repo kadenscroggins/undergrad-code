@@ -1,0 +1,53 @@
+<html>
+<head>
+	<title> Assignment 12 </title>
+	<script>
+		function play() {
+			var radiobuttons = document.getElementsByName("difficulty");
+			if (radiobuttons[0].checked == true) {
+				form1.number1.value = Math.round(Math.random()*10);
+				form1.number2.value = Math.round(Math.random()*10);
+			}
+			else if (radiobuttons[1].checked == true) {
+				form1.number1.value = Math.round(Math.random()*20)-10;
+				form1.number2.value = Math.round(Math.random()*20)-10;
+			}
+
+			form1.result.value = "";
+		}
+
+		function verify() {
+			var total = parseInt(form1.number1.value) + parseInt(form1.number2.value);
+			var guess = parseInt(form1.guess.value);
+
+			if (total == guess) {
+				form1.result.value = "Correct";
+			}
+			else {
+				form1.result.value = "Incorrect";
+			}
+		}
+	</script>
+</head>
+
+<body style="padding:12px;">
+	<form name="form1" id="form1">
+		<h2> Assignment 12 </h2>
+		Education Math Game (JavaScript) <br>
+		Kaden Scroggins <p>
+		<div style="width:300px; padding:12px; background-color:lightgrey;">
+			<dl>
+				<dt>Skill Level:</dt>
+				<dt><input type="radio" name="difficulty" value="beginner" checked>Beginner (1 to 10)</dt>
+				<dt><input type="radio" name="difficulty" value="advanced">Advanced (-10 to 10)</dt>
+				<dt><input type="button" value="Play" onclick="play()"></dt>
+			</dl>
+			Number 1: <input type="text" name="number1" readonly="true" size="5"> <br>
+			+ <br>
+			Number 2: <input type="text" name="number2" readonly="true" size="5"> <br><br>
+			Guess: <input type="text" name="guess" size="5">
+			<input type="button" value="Verify" onclick="verify()"><br><br>
+			<input type="text" readonly="true" name="result"><br><br>
+		</div>
+	</form>
+</body>

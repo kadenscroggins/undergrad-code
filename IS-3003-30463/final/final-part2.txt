@@ -1,0 +1,19 @@
+1. To snap a window, hold the windows key and press the left or right arrow key to snap to that side of the screen
+
+2. I don't test my code on my computer, I edit it right on the server, refreshing the page every time I make a change - this makes it much quicker to make sure everything works
+
+3. PowerShell scripts can automate a lot of tasks - in a situation where you may have to repeatedly do the same thing, making a script to automate the process can save lots of time
+
+4. This one is pretty simple - memorizing basic text editing shortcuts is almost a necessity for writing code. CTRL-Z to undo, CTRL-X to cut, CTRL-V to paste, CTRL-C to copy, CTRL-F to find, to name the most common ones I use daily.
+
+5. This really applies to programming in any language - while an IDE provides lots of features, they are slow and bulky. Using something snappy to edit code, like Notepad++ or Sublime Text, will feel a lot smoother and force you to learn more programming instead of depending on features from an IDE.
+
+6. Learn how to google properly. Chances are, you're not the first person to program something, and being able to find out how other people did it can be a great starting point. All the documentation for programming languages is typically online too.
+
+7. Keep your files organized - I see a lot of people with hundreds of files in their downloads. If I'm not gonna use it, I delete it. If I'm gonna use it, but not soon, I find a place for it, whether it's in my documents folder or somewhere else. The folders you use the most should be the most organized.
+
+8. From a hardware perspective - If you want to get things done faster, buy a solid state drive. They change your boot time from minutes to seconds. Everything you do feels faster on your computer. It makes it so much quicker to open files and do work when your computer responds quickly.
+
+9. Organize your desktop - My taskbar only has the programs I use constantly on it. My desktop is clean, too, as I have folders for different types of programs instead of spilling them all everywhere. My start menu has some pinned programs that I use frequently too, but everything is organized everywhere.
+
+10. Get a second monitor. You'll be more efficient with two monitors, as you don't have to constantly switch between windows, meaning you'll save time in the long run. This is especially useful for editing code, with some windows dedicated to coding and others with info on methods pulled up.

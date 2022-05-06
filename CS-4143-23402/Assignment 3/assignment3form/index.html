@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<script defer src="scripts.js"></script>
+	<title>Feedback</title>
+</head>
+
+<body background="feedback.png">
+<form name="form1" id="form1">
+<h2>Feedback</h2>
+
+
+<fieldset style="float:left">
+  <legend>Feedback information</legend>
+  <div>
+    Type of feedback: 
+    <select name="feedback" id="feedback" onchange="setFeedback(this.value)">
+      <option style="display: none" disabled selected value></option>
+      <option value="Bug Report">Bug Report</option>
+      <option value="Feature Request">Feature Request</option>
+      <option value="Suggestion">Suggestion</option>
+      <option value="Other">Other</option>
+    </select>
+    <br>
+    Your email:
+    <input type="text" name="email" id="email" onchange="update()">
+  </div>
+  <div style="float:left">
+    <dl>
+      <dt>Approval Rating</dt>
+      <dt><input type="radio" name="rating" onchange="setApproval('Positive')"> Positive </dt>
+      <dt><input type="radio" name="rating" onchange="setApproval('Neutral')"> Neutral </dt>
+      <dt><input type="radio" name="rating" onchange="setApproval('Negative')"> Negative </dt>
+    </dl>
+  </div>
+  <div style="float:left; padding-left:1em">
+    <ul>
+      Applicable Site Sections <br>
+      <li><input type="checkbox" name="checkbox" onchange="update()"> Home </li>
+      <li><input type="checkbox" name="checkbox" onchange="update()"> Listings </li>
+      <li><input type="checkbox" name="checkbox" onchange="update()"> Contact </li>
+      <li><input type="checkbox" name="checkbox" onchange="update()"> Reviews </li>
+      <li><input type="checkbox" name="checkbox" onchange="update()"> Feedback </li>
+      <li><input type="checkbox" name="checkbox" onchange="update()"> Other </li>
+    </ul>
+  </div>
+</fieldset>
+<pre style="float:left">    </pre>
+<div style="float:left">
+  <br>
+  <textarea readonly="true" rows="10" cols="40" id="feedback-info"></textarea>
+</div>
+
+<div style="clear:both">&nbsp;</div>
+<textarea placeholder="Type feedback here" rows="15" cols="100"></textarea><br>
+<input type="button" value="Submit Feedback" onclick="submitFeedback()">
+</form>
+</body>
+</html>

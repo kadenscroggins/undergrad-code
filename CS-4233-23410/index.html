@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="style.css" rel="stylesheet" type="text/css">
+  <script src="sampleitems.js"></script>
+  <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script defer src="scripts.js"></script>
+  <title> Kaden Scroggins Capstone </title>
+</head>
+
+<body>
+  <form name="content" id="content">
+    <h1> RPG Inventory Tracker </h1>
+    <hr>
+    <div id="chardiv">
+      <!-- Table inserted here by JS -->
+    </div>
+    <div id="inventory" style="display: none">
+      <!-- Table inserted here by JS -->
+    </div>
+    <div id="databuttons" class="databuttons">
+      <input type="button" value="Save to file" onclick="saveFile()">
+      <input type="button" value="Load from file" onclick="document.getElementById('file-input').click()">
+      <br>
+      <input type="button" value="Save to client" onclick="saveClient()">
+      <input type="button" value="Load from client" onclick="loadClient()">
+      <br>
+      <input type="button" value="Save to server" id="saveserver" onclick="saveServer()">
+      <input type="button" value="Load from server" onclick="loadServer()">
+      <br>
+      <input type="text" id="savekey" placeholder="Save Key">
+    </div>
+    <div style="display: none">
+      <input id="file-input" accept=".json" type="file" onchange="loadFile(event)">
+    </div>
+  </form>
+</body>
+</html>

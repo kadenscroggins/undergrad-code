@@ -1,0 +1,26 @@
+body {
+  padding:30px;
+  font-size:1.2em;
+}
+
+h1 {
+  background-color:cadetblue;
+  padding:10px;
+  color:white;
+  text-align:center;
+}
+
+div {
+  width:700px;
+  background-color:aquamarine;
+  padding:10px;
+  margin:0 0 10px 0;
+}
+
+a {
+  text-decoration:none;
+  background-color:cadetblue;
+  color:white;
+  padding:5px;
+  border-radius:5px;
+}

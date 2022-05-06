@@ -1,0 +1,19 @@
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\bin\Debug\net5.0-windows\Card Flip.exe
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\bin\Debug\net5.0-windows\Card Flip.deps.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\bin\Debug\net5.0-windows\Card Flip.runtimeconfig.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\bin\Debug\net5.0-windows\Card Flip.runtimeconfig.dev.json
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\bin\Debug\net5.0-windows\Card Flip.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\bin\Debug\net5.0-windows\ref\Card Flip.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\bin\Debug\net5.0-windows\Card Flip.pdb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card Flip.vbproj.AssemblyReference.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card_Flip.Form1.resources
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card_Flip.Resources.resources
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card Flip.vbproj.GenerateResource.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card Flip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card Flip.AssemblyInfoInputs.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card Flip.AssemblyInfo.vb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card Flip.vbproj.CoreCompileInputs.cache
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card Flip.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\ref\Card Flip.dll
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card Flip.pdb
+C:\Users\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 1\Card Flip\obj\Debug\net5.0-windows\Card Flip.genruntimeconfig.cache

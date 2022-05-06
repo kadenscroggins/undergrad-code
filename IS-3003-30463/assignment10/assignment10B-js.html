@@ -1,0 +1,41 @@
+<html>
+<head>
+<title> Incrementing Buttons - JavaScript </title>
+
+<script>
+
+function increment() {
+	document.form1.number1.value = parseFloat(document.form1.number1.value) + 1;
+}
+
+function decrement() {
+	document.form1.number2.value = parseFloat(document.form1.number2.value) - 1;
+}
+
+function swap() {
+	var number1 = parseFloat(document.form1.number1.value);
+	var number2 = parseFloat(document.form1.number2.value);
+	document.form1.number1.value = number2;
+	document.form1.number2.value = number1;
+}
+
+</script>
+
+</head>
+
+<body style="padding:30px;">
+
+<p><h2> Incrementing Buttons - JavaScript </h2></p>
+
+<form name="form1">
+<input type="button" value="Increment Number" onclick="increment()">
+<input type="text" name="number1" value="0">
+<br><br>
+<input type="button" value="Decrement Number" onclick="decrement()">
+<input type="text" name="number2" value="0">
+<br><br>
+<input type="button" value="Swap Numbers" onclick="swap()">
+</form>
+
+</body>
+</html>

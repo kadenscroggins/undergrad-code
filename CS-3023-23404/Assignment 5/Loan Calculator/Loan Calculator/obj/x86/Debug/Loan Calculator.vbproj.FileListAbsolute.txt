@@ -1,0 +1,50 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\bin\Debug\Loan Calculator.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\bin\Debug\Loan Calculator.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\bin\Debug\Loan Calculator.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\obj\x86\Debug\Loan_Calculator.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\obj\x86\Debug\Loan_Calculator.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\obj\x86\Debug\Loan Calculator.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\obj\x86\Debug\Loan Calculator.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Loan Calculator\obj\x86\Debug\Loan Calculator.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.exe
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.xml
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan_Calculator.Form1.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan_Calculator.Resources.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.vbproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.vbprojResolveAssemblyReference.cache
+D:\sovb15\instructor\finished tutorials\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.exe
+D:\sovb15\instructor\finished tutorials\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.xml
+D:\sovb15\instructor\finished tutorials\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.pdb
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.exe
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.pdb
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.xml
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.vbprojResolveAssemblyReference.cache
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan_Calculator.Form1.resources
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan_Calculator.Resources.resources
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.vbproj.GenerateResource.Cache
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.exe
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.xml
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch05\Tutorial 5-12\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.exe
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.pdb
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.xml
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan_Calculator.Form1.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan_Calculator.Resources.resources
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.vbproj.GenerateResource.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.vbproj.CoreCompileInputs.cache
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.exe
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.xml
+E:\nyny8\Downloads\NSU Fall 2021\CS-3023-23404\Assignments\Assignment 5\Loan Calculator\Loan Calculator\obj\x86\Debug\Loan Calculator.pdb
