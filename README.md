@@ -4,7 +4,7 @@
     * [Assignment 6](https://github.com/kadenscroggins/undergrad-code/tree/main/CS-1113-60992/Programs/Program6) - Postfix notation calculator. Also called Reverse Polish Notation. Focused on using stack data structures.
 ### Spring 2018
 2. CS-2133 - Computer Science II
-    * [Assignment 5](https://github.com/kadenscroggins/undergrad-code/tree/main/CS-2133-20918/assn5) - Minesweeper, written in Java - the GUI was programmed by hand without any IDE tools.
+    * [Assignment 5](https://github.com/kadenscroggins/undergrad-code/tree/main/CS-2133-20918/assn5) - Minesweeper, written in Java - the GUI was programmed by hand without any IDE tools. [Download the .jar file here.](https://github.com/kadenscroggins/undergrad-code/releases/download/Runnable/Minesweeper.jar)
 ### Spring 2020
 3. IS-3003 - System Development Using RAD Tools
     * [Assignment 3](https://github.com/kadenscroggins/undergrad-code/tree/main/IS-3003-30463/assignment3) - "Health Club Calculator" used for calculating membership fees for a country club. This is the 3rd of 12 assignments, but I think it was the best real-world example of a simple JS tool we made. We also went over plenty of PHP and some CSS.
